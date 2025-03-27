@@ -20,12 +20,12 @@ The materials in the linked folder cover various topics, including:
 ## Problem Statement
 
  1. Array	Minimise the maximum difference between heights
- - String	Convert a Sentence into its equivalent mobile numeric keypad sequence.				
- - Searching & Sorting	find four elements that sum to a given      value			
- - LinkedList	Write a program to Delete loop in a linked list.			
- - Binary Trees	Reverse Level Order traversal		
- - Binary Search Trees	Populate Inorder successor of all nodes		
- - Stacks & Queues	Implement Queue from Scratch
+ 2. String	Convert a Sentence into its equivalent mobile numeric keypad sequence.				
+ 3. Searching & Sorting	find four elements that sum to a given      value			
+ 4. LinkedList	Write a program to Delete loop in a linked list.			
+ 5. Binary Trees	Reverse Level Order traversal		
+ 6. Binary Search Trees	Populate Inorder successor of all nodes		
+ 7. Stacks & Queues	Implement Queue from Scratch
 
 ## How to Use
 1. Click on the link above to access the videos.
