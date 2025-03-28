@@ -3,6 +3,12 @@
 ## Overview
 This repository contains resources related to Data Structures and Algorithms (DSA) as part of the Skill Lab assignment. DSA is a fundamental concept in computer science that focuses on organizing and managing data efficiently. Understanding DSA is crucial for problem-solving, optimizing algorithms, and excelling in competitive programming and technical interviews.
 
+## Team Members
+- Venkatesha HD
+- Ullas Gowda
+- Mithun MN
+- Shiivabalan
+
 ## Resources
 The following Google Drive folder contains educational videos and materials on DSA:
 
